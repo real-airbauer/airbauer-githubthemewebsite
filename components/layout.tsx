@@ -11,7 +11,7 @@ const Layout: FunctionComponent<LayoutProps> = ({ children }: LayoutProps) => {
         {children}
       </main>
       <footer className="mb-2 text-[#292b3a] text-center">
-        &#169; tomoki1207 All rights reserved.
+        &#169; AIRbauer All rights reserved.
       </footer>
     </div>
   );

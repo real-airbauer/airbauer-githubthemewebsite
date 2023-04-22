@@ -49,7 +49,7 @@ const getStaticProps: GetStaticProps<IndexProps> = async () => {
 
   const contentNode: Node = {
     type: "Directory",
-    name: "tomoki1207",
+    name: "AIRbauer",
     path: "/contents",
     children: [],
   };
